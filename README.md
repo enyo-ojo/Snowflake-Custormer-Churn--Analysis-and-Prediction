@@ -1,6 +1,6 @@
 My Customer Churn analysis and Prediction. 
 - I got this dataset from *Kaggle*
-- Pretty clean but highlt imbalance
+- Pretty clean but highly imbalanced
 - I explored it using *Snowflake Datawarehoousing*: **EDA file: https://app.snowflake.com/gwxhrxs/nn32360/w3S9rdX1ySLy#query**
 - Feature engineered in py notebooks
 - Created model with an **86%** accuracy and impressive recall percentages which is the goal.
